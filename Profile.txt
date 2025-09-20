@@ -1,0 +1,194 @@
+Contact
+Panikara Gaon, Morangi Chari Ali,
+dist: Golaghat
+Golaghat, Assam, 785702
+India
+6913911634 (Home)
+proyashpsb@gmail.com
+
+www.linkedin.com/in/
+proyashpabansarmaborah
+(LinkedIn)
+spritan.github.io/Portfolio-website/
+(Portfolio)
+
+Top Skills
+Redis
+EDA
+Microsoft Azure
+
+Languages
+Hindi (Full Professional)
+Assamese (Native or Bilingual)
+English (Professional Working)
+
+Certifications
+
+Proyash Paban Sarma Borah
+
+MLE @Ninur |ExGDSC Lead "22 | Ex Research Associate @APU |
+Computer Vision| DL | ML |B.Tech in ETE @AEC'24
+Golaghat, Assam, India
+
+Summary
+I'm a dynamic and innovative Machine Learning Engineer with a
+passion for transforming complex challenges into sleek, impactful
+solutions. In my current role as a Senior Machine Learning Engineer
+at Ninur Tech, I blend technical expertise with a creative, out-of-thebox approach to drive projects in AI, robotics, and computer vision.
+My journey has seen me architect ML pipelines, craft collaborative
+recommendation systems, and lead award-winning robotics teams—
+all while fueling my relentless curiosity and open-source spirit.
+With a strong foundation in Electronics and Telecommunications
+Engineering and hands-on experience across IoT, data analysis, and
+cloud technologies, I thrive on merging art with science to deliver
+future-forward solutions. I'm all about pushing boundaries, disrupting
+the status quo, and delivering work that’s as cool as it is cutting
+edge.
+
+Encoder-Decoder Architecture
+AI Agents in LangGraph
+Qt 5 C++ GUI Development For
+Beginners : The Fundamentals
+MOOC Machine Learning in Weather
+& Climate
+Machine Learning A-Z
+
+Honors-Awards
+Techniche Escalade 10.0 1st prize
+Techfest IITB Meshmerize 4th prize
+
+Let’s connect and explore how we can innovate and build the next
+big thing together.
+
+Experience
+NINUR TECH PRIVATE LIMITED
+Machine Learning Engineer
+October 2024 - Present (1 year)
+Guwahati, Assam, India
+
+Rhapsody 2.0 Techtrix (RoboWar)
+GEC 2nd Prize
+
+Trained & optimized 15+ vision models (ViT, EfficientNet) for 100+ NE Indian
+
+TECHमिलाप AppVenture GIMT 1st
+Prize
+
+Deployed models to Flutter apps via TFLite & server-side via ONNX/
+
+Winner Un-Flood Hackathon, Assam
+Startup and Ministry of Electronics
+and Telecommunication
+
+Publications
+
+plant species
+TorchScript
+️ Built TTS pipelines (VITS, FastPitch, XTTS...) in 5+ Indian languages + realtime streaming
+Designed IoT pipelines w/ BLE & Serial — made low-cost sensors Flutterready
+Page 1 of 4
+
+Enhancing Medical Imaging
+Diagnostics: A Comprehensive
+Study on Explainable AI Using
+YOLO and Post Hoc Methods
+
+️ Created a voice-first AI agent (Gemini LLM) for search, theme, analytics, etc.
+️ Automated training workflows with internal labeling & annotation tools
+
+Community Climate Lab (CCL)
+Member
+
+February 2022 - Present (3 years 8 months)
+Guwahati, Assam, India
+Gained expertise in climate tools: Executed Flood Inundation analysis for
+Guwahati using Google Earth Engine (GEE), QGIS, and Python, showcasing
+practical skills and delivering actionable insights also scripted GEE tools for
+10+ time series tasks including NDVI, NDBI, and NDWI.
+
+Frint.in
+Independent Consultant
+
+August 2024 - February 2025 (7 months)
+Guwahati, Assam, India
+Advised product strategy & led AI/ML team to build a smart video interview
+system
+️ Oversaw hiring, system architecture, and tech alignment with Frint’s core
+vision
+
+SpArts Technologies
+SDE
+
+February 2024 - August 2024 (7 months)
+Bengaluru, Karnataka, India
+• Developed AI evaluation pipelines on GCP for auto video assignment
+checking using pose comparison and LLM integration.
+• Developed AI Fitness and workout routine on React based PWA student app
+using Mediapipe js.
+• Designed custom pose embeddings for satisfactory pose similarity.
+• Implemented clientside guided video recording system in ReactJs and
+mediapipeJs.
+• Built Sparts B2B portal’s landing page with ReactJs server components for
+better SEO and integration with Strapi CMS.
+
+Eastern Botz
+Vice Captain
+
+April 2021 - May 2024 (3 years 2 months)
+Guwahati, Assam, India
+Lead multiple robotics Teams to win several national/ International events.
+Page 2 of 4
+
+Frint.in
+MLE
+
+November 2023 - January 2024 (3 months)
+Guwahati, Assam, India
+Designed and deployed a Collaborative Filtering based recommendation
+system. Also crafted a LLM based Job description generator.
+
+Sumato Globaltech
+IoT Intern
+
+August 2023 - October 2023 (3 months)
+Guwahati, Assam, India
+Crafted scripts for Raspberry Pi system, Speedup bootup time by 40%. Built
+Flask web service for a Kiosk system dashboard.
+
+3DAiLY
+Machine Learning Intern
+
+July 2023 - August 2023 (2 months)
+Guwahati, Assam, India
+Optimized computer vision‑based deep‑learning models (VIT, VIT‑adapter,
+MLP mixer, etc) with PyTorch‑lightning, achieving a 98% accuracy in
+recreating frontal human faces from side view images
+
+Azim Premji University
+Consultant
+
+August 2022 - July 2023 (1 year)
+Bengaluru, Karnataka, India
+- Established NodeMUC-based pollution monitoring network, optimized Django
+APIs for 15% faster data preprocessing, and created a ReactJS dashboard.
+- Maintained Wiki for efficient onboarding.
+- Developed Python and bash scripts for processing CMIP5 and CMIP6
+gridded climatology data.
+- Authored PYQGIS script for QGIS automation, saving 5 hours weekly in data
+analysis.
+
+Education
+Assam Engineering College, (A.E.C)
+Bachelor of Technology - BTech, Electronics and Telecommunications
+Engineering · (2020 - 2024)
+Page 3 of 4
+
+Delhi Public School - Numaligarh
+12th, AISSCE in Science · (2018 - 2020)
+
+St. mary's high School, Doigrung
+HSLC , High School Certificate of Competence Program · (2006 - 2018)
+
+Page 4 of 4
+
+
