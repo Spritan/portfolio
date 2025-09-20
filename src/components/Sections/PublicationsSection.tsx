@@ -1,4 +1,3 @@
-import React from 'react';
 import { Section } from '@/components/Layout/Section';
 import { Card } from '@/components/UI/Card';
 import { publications } from '@/data/mockData';

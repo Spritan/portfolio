@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { Section } from '@/components/Layout/Section';
 import { Card } from '@/components/UI/Card';
 import { achievements } from '@/data/mockData';
-import { Award, Trophy, Star, Target, TrendingUp, ChevronDown, ChevronUp } from 'lucide-react';
+import { Award, Trophy, Star, Target, TrendingUp, ChevronDown } from 'lucide-react';
 
 export function AchievementsSection() {
   const [showAll, setShowAll] = useState(false);

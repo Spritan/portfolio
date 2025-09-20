@@ -1,5 +1,5 @@
 import { personalInfo } from '@/data/mockData';
-import { Github, Linkedin, BookOpen, Mail, Heart } from 'lucide-react';
+import { Github, Linkedin, BookOpen, Mail } from 'lucide-react';
 
 export function Footer() {
   const currentYear = new Date().getFullYear();
